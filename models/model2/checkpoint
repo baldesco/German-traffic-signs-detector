@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\eduardo\\Desktop\\Reto Kiwi\\German traffic signs detector\\images\\train\\..\\..\\models\\model2\\model2-1000"
+all_model_checkpoint_paths: "C:\\Users\\eduardo\\Desktop\\Reto Kiwi\\German traffic signs detector\\images\\train\\..\\..\\models\\model2\\model2-1000"
